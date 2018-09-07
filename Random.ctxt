@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Random()
+comment1.params=name
+comment1.target=void\ addCard(java.lang.Integer[][])
+numComments=2
